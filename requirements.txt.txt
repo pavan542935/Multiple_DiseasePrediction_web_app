@@ -1,5 +1,5 @@
-numpy==2.3.1
-pickle-mixin==1.0.2
-streamlit==1.46.1
+numpy
+pickle-mixin
+streamlit
 streamlit-option-menu
-scikit-learn==1.6.1
+scikit-learn
